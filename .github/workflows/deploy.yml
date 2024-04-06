@@ -1,4 +1,4 @@
-name: ci image build
+name: CI image build
 on:
   push:
     branches:
