@@ -9,3 +9,6 @@ COPY . .
 EXPOSE 3000
 
 CMD ["node", "index.js"]
+
+0dYodnQgH0RjEkkuT3hssLXiZ/LlrRFQVtetFtRA
+AKIA5XL3FUTD4IBAOMR4
